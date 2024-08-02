@@ -11,7 +11,7 @@ import java.io.File;
  * @author manue
  */
 public interface GenerateConfigService {
-    public File generateFileConfig(File file);
-    public boolean checkExistFile(File file);
-    public boolean updateFileConfig(File file);
+    public boolean generateFileConfig(String url,String name,String data);
+    public boolean checkExistFile(String url,String name);
+    public boolean updateFileConfig(String url,String name,String newData);
 }

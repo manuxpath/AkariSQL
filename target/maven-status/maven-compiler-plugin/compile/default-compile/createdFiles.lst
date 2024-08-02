@@ -1,1 +1,6 @@
-com\manuxpath\akarisql\Main\AkariSQL.class
+com\manuxpath\akarisql\models\ReservedWords.class
+com\manuxpath\akarisql\controllers\GenerateConfigController.class
+com\manuxpath\akarisql\models\Database.class
+com\manuxpath\akarisql\services\GenerateConfigService.class
+com\manuxpath\akarisql\Main\Main.class
+com\manuxpath\akarisql\models\Table.class
